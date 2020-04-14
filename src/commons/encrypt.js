@@ -1,0 +1,1 @@
+console.log('TEST', CryptoJS.AES.encrypt(password, 'Protector').toString());

@@ -1,0 +1,6 @@
+{
+  "TYPE_ERROR": {
+    "ERROR": 1,
+    "VALID": 2
+  }
+}

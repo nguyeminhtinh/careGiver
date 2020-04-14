@@ -1,0 +1,3 @@
+export const LOCALSTORAGE_ACCESS_TOKEN = "LOCALSTORAGE_ACCESS_TOKEN";
+export const EXPIRES_AT  = "EXPIRES_AT";
+export const ENTER_KEY = 'Enter';
